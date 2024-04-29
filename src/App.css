@@ -1,0 +1,282 @@
+ Body{
+    background-color: ;
+    font-size: 1.2rem;
+    height: 100vh;
+} 
+
+.NavBar{
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+}
+
+.NavTitle{
+    background-color: white;
+     color: darkblue;
+     display: flex;
+}
+
+.NavOptions{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 15.5rem;
+    margin-left: 2rem;
+    border-radius: 5px;
+}
+
+#Apply{
+    background-color: red;
+    color: white;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+.Learn{
+  color:black ;
+  font-size: 3.4rem;
+  font-weight: 1.4rem;
+}
+
+.Access{
+  color:black;
+  font-size: 1.4rem;
+  font-weight: 1.4rem;
+}
+
+.Signs{
+    background-color: red;
+    color: white;
+    width: 55%;
+    height: 35px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 5px;
+    
+}
+
+.LandingPage{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.Ass-Image{
+    width: 50%;
+    height: 650px;
+    position: relative;
+    left:9.9rem;
+}
+
+.Range{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.First{
+    position: relative;
+    left: 23rem;
+    padding: 1rem;
+}
+
+.top{
+    position: relative;
+    left: 8rem;
+}
+
+.strug{
+    margin-left: 4rem;
+}
+
+.left{
+    margin-right: 4rem;
+}
+
+.Lean{
+    position: relative;
+    left: 11rem;
+}
+
+.Icon{
+    position: relative;
+    left: 4rem;
+}
+
+.general{
+    background-color: white;
+    position: relative;
+    bottom: 1.8rem;
+}
+
+.Second{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+    position: relative;
+}
+
+.Bero{
+    background-color: red;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.Appi{
+    position: relative;
+    right: 12rem;
+}
+
+.Appy{
+    position: relative;
+    left: 12rem;
+}
+
+.lit{
+    font-size: small;
+    margin-left: 1.4rem;
+}
+
+.lite{
+    color: silver;
+}
+
+.ThirdPage{
+    background-color: red;
+    color: white;
+    position: relative;
+    bottom: 0rem;
+    padding: 5rem;
+}
+
+.Fourth{
+    background-color:whitesmoke;
+    position: relative;
+    bottom: 0rem;
+    padding: 4rem;
+    text-align: center;
+}
+
+#Account{
+    background-color: red;
+    color: white;
+    width: 17%;
+    height: 35px;
+    text-align: center;
+    padding-top: 7px;
+    position: relative;
+    left: 35rem;
+    border-radius: 5px;
+}
+
+.Progra{
+    background-color:white;
+    color: black;
+    width: 40%;
+    height: 70px;
+    text-align: center;
+    padding-top: 7px;
+    text-align: center;
+    position: relative;
+    left: 28rem;
+    border-radius: 5px;
+}
+
+.pro{
+    position: relative;
+    left: 35rem;
+}
+
+.prop{
+    position: relative;
+    left: 27rem;
+}
+
+.Fifth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 0rem;
+    padding: 5rem;
+}
+
+.SWE{
+    margin-left: 8rem;
+}
+
+.DOC{
+    margin-left: 5rem;
+}
+
+.Reso{
+    margin-bottom: 4rem;
+}
+
+.cod{
+    color: darkgray;
+}
+
+
+
+.yout{
+width: 10%;
+padding: 5px;
+border: solid white;
+text-align: center;
+margin-left: 15px;
+border-radius: 5px;
+
+}
+
+.bet{
+    background-color:#616161;
+    width: 300%;
+    border: 1px solid #616161;
+    margin-bottom: 4rem;
+  }
+
+  .beti{
+    background-color:#616161;
+    width: 475%;
+    border: 1px solid #616161;
+    position: relative;
+    right: 66rem;
+  }
+
+  .tak{
+    display: flex;
+  }
+
+  .talks{
+    display: flex;
+   position: relative;
+   left: 47rem;
+  }
+
+  .gem{
+    position: relative;
+    bottom: 3.6rem;
+  }
